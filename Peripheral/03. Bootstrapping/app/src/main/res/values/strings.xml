@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleBLEPeripheral</string>
+    <string name="bluetooth_on">Bluetooth On</string>
+</resources>
